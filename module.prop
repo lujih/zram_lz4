@@ -1,0 +1,6 @@
+id=zram_lz4
+name=ZRAM LZ4
+version=1.0
+versionCode=1
+author=褚山真寻
+description=修改ZRAM压缩算法为LZ4
